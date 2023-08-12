@@ -5,4 +5,8 @@ fist: download every thing in the requirements file
 ```
 pip install -r requirements.txt
 ```
-and then just  run the visualiser.py
+and then just  run the visualiser.py using
+
+```
+python visualiser.py
+```
